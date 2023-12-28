@@ -24,4 +24,4 @@ def app():
     
     st.info("Pneumonia Clinics and Healthcare Center Near You:")
 
-    st.markdown('''<iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/search?q=pneumonia%20hospitals%20in%20ap&key=AIzaSyBs-zcDSKM_zGdfrZNjyT2yb2KrnOwWzjI"></iframe>''',unsafe_allow_html=True)
+    st.markdown('''<iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/search?q=pneumonia%20near%20me&key=AIzaSyBs-zcDSKM_zGdfrZNjyT2yb2KrnOwWzjI"></iframe>''',unsafe_allow_html=True)
